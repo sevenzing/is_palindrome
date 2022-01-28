@@ -1,4 +1,4 @@
-Is my number palindrome?
+Is my string palindrome?
 ===
 
 I come up with idea of making is_palindrome function that works in O(1) !
